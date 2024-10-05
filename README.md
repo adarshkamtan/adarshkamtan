@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BSc Hons life science
 - 💞️ I’m looking to collaborate on bioinformatics based projects.
 - 📫 How to reach me adarshkamtan@gmail.com
-- NOTE: still in UGC no work experience just looking forward to learn new things.
+- NOTE: still in UGC no work experience but looking forward to learn new things.
 
 <!---
 adarshkamtan/adarshkamtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
